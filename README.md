@@ -1,9 +1,7 @@
-Here's a comprehensive `README.md` file for your `soundex_flutter` plugin. This README will help users understand what your plugin does, how to install it, and how to use it in their own projects.
-
 ```markdown
 # Soundex Flutter Plugin
 
-A Flutter plugin for implementing the Soundex algorithm, which is primarily used in phonetic matching of names. This plugin provides a simple and efficient way to encode strings based on their pronunciation, facilitating features like search and data matching in Flutter applications.
+This plugin provides a simple and efficient way to encode strings based on their pronunciation, facilitating features like search and data matching in Flutter applications.
 
 ## Features
 

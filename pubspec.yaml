@@ -1,7 +1,7 @@
 name: soundex_plugin
-description: "A new Flutter plugin project."
-version: 0.0.1
-homepage:
+description: "This plugin provides a simple and efficient way to encode strings based on their pronunciation, facilitating features like search and data matching in Flutter applications."
+version: 0.0.2
+homepage: https://github.com/richanshah/soundex_plugin
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
