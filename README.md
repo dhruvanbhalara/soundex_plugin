@@ -1,4 +1,4 @@
-```markdown
+
 # Soundex Flutter Plugin
 
 This plugin provides a simple and efficient way to encode strings based on their pronunciation, facilitating features like search and data matching in Flutter applications.
@@ -76,5 +76,5 @@ This plugin is provided under the MIT License. See the LICENSE file in the root 
 ## Support
 
 If you have any issues or feature requests, please file an issue on the plugin's GitHub repository. Your feedback is appreciated!
-```
+
 
